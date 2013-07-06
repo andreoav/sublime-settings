@@ -1,0 +1,19 @@
+{
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_orange": true,
+	"phoenix_eighties": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_tabs_small": true,
+	"theme": "Phoenix Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	// Controls what scopes auto complete will be triggered in)
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin"
+}
